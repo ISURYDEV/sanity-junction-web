@@ -10,5 +10,5 @@ Ren'Py, mise en ligne sur GitHub et déploiement sur Vercel).
 
 **Statut :** Alpha / démo web
 **Technologies :** Ren'Py · Python · HTML5 / WebAssembly · Vercel
-**Démo :** _lien Vercel à venir_
+**Démo :** https://sanity-junction-web.vercel.app
 **Code :** https://github.com/ISURYDEV/sanity-junction-web

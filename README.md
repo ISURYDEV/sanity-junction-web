@@ -8,7 +8,7 @@ développé avec **Ren'Py / Python**.
 > Cette version est une exportation web du projet Ren'Py. Le dépôt contient la version
 > jouable navigateur, pas l'intégralité du projet source de développement.
 
-🎮 **Démo en ligne :** _à venir (lien Vercel ajouté après déploiement)_
+🎮 **Démo en ligne :** https://sanity-junction-web.vercel.app
 
 ---
 
