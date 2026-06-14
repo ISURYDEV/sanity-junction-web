@@ -1,0 +1,34 @@
+# --- Déploiement / éditeurs ---
+.vercel/
+.vscode/
+.idea/
+
+# --- Fichiers système OS ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Logs ---
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Caches & temporaires ---
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+.cache/
+
+# --- Sauvegardes locales inutiles ---
+*.orig
+
+# NOTE : Ne PAS ignorer les fichiers nécessaires à l'export web Ren'Py.
+# Les fichiers suivants DOIVENT rester versionnés :
+#   index.html, renpy.js, renpy-pre.js, renpy.wasm, renpy.data,
+#   game.zip, manifest.json, pwa_catalog.json, service-worker.js,
+#   web-presplash.jpg, le dossier game/ et le dossier icons/.
