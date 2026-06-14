@@ -12,6 +12,19 @@ développé avec **Ren'Py / Python**.
 
 ---
 
+## Statut du projet
+
+Sanity Junction est actuellement en développement actif au sein d'une équipe. Le projet
+a déjà atteint un stade avancé en interne, avec l'objectif de préparer une bêta ouverte
+puis, si le développement se poursuit comme prévu, une sortie commerciale.
+
+Pour des raisons de confidentialité et afin de respecter la communication officielle de
+l'équipe, ce dépôt ne présente qu'une démo web limitée issue d'un export Ren'Py. Le
+contenu publié ici ne reflète donc pas l'intégralité du projet, de ses mécaniques, de
+son scénario ou de sa roadmap.
+
+---
+
 ## Technologies
 
 - **Ren'Py** (moteur de visual novel)
@@ -80,6 +93,7 @@ Ce projet illustre plusieurs compétences concrètes :
 
 ## Limites actuelles
 
+- **Démo volontairement limitée** : version réduite publiée pour des raisons de confidentialité avec l'équipe
 - Version **alpha** : contenu et fonctionnalités encore en évolution
 - Export web relativement **lourd** (médias embarqués)
 - **Chargement parfois long** au premier lancement

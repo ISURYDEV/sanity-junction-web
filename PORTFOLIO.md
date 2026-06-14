@@ -1,14 +1,14 @@
 # Sanity Junction — Web Demo
 
-**Sanity Junction** est un visual novel psychologique développé avec **Ren'Py / Python**
-en équipe. Cette démo web permet de tester une version alpha directement depuis le
-navigateur.
+**Sanity Junction** est un visual novel psychologique développé en équipe avec
+**Ren'Py / Python**. Le projet est encore en développement actif et a pour objectif une
+bêta ouverte, puis une possible sortie commerciale. Pour des raisons de confidentialité
+avec l'équipe, seule une démo web limitée est actuellement publiée.
 
-Le projet montre mon intérêt pour le développement de jeux narratifs, l'organisation
-d'un projet en équipe et la publication d'une version jouable en ligne (export web
-Ren'Py, mise en ligne sur GitHub et déploiement sur Vercel).
+Cette version permet de montrer le travail réalisé autour de l'export web, de la
+préparation GitHub/Vercel et de la mise en ligne d'une version jouable navigateur.
 
-**Statut :** Alpha / démo web
+**Statut :** En développement actif — démo web limitée (alpha)
 **Technologies :** Ren'Py · Python · HTML5 / WebAssembly · Vercel
 **Démo :** https://sanity-junction-web.vercel.app
 **Code :** https://github.com/ISURYDEV/sanity-junction-web
